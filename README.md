@@ -2,11 +2,11 @@
 
 Exam Diamond data set. Fit and evaluate models for classification purposes using sklearn module.
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/PySpark_Streaming/main/streaming.html)
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Diamond/main/classifying_v3.html)
 
 Key features:
 
-- sklearn
+- scikit-learn (sklearn)
 - Training and Test Split
 - MLR: Logistic Regression Model
 - Classification Tree Model
@@ -22,7 +22,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/PySpark_Streaming/main/streaming.html) ([Jupyter Notebook](./classifying_v3.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Diamond/main/classifying_v3.html) ([Jupyter Notebook](./classifying_v3.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
@@ -42,3 +42,5 @@ Split the data into a training and test set. Fit and evaluate models for classif
    1. Classification tree model
    1. Random forest model
 5. Compare the best models on the test set and determine which the model has the lowest error
+
+![](comparison.png)

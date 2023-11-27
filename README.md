@@ -30,7 +30,7 @@ Chien-Lan Hsueh (chienlan.hsueh at gmail.com)
 
 ## Overview and Project Goal
 
-Split the data into a training and test set. Fit and evaluate models for classification purposes using sklearn.
+Split the data into training and test set. Fit and evaluate models for classification purposes using sklearn.
 
 ## Workflow
 
